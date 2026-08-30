@@ -114,55 +114,55 @@ The prediction model analyzes various patient health attributes including:
 
 ## Home Page
 
-![Home](screenshots/home-page.png)
+![Home](screenshots/home-page.png.png)
 
 ---
 
 ## Login Page
 
-![Login](screenshots/login-page.png)
+![Login](screenshots/login-page.png.png)
 
 ---
 
 ## Patient Dashboard
 
-![Patient Dashboard](screenshots/patient-dashboard.png)
+![Patient Dashboard](screenshots/patient-dashboard.png.png)
 
 ---
 
 ## Health Prediction Form
 
-![Health Form](screenshots/health-form.png)
+![Health Form](screenshots/health-form.png.png)
 
 ---
 
 ## Prediction Report
 
-![Prediction Report](screenshots/prediction-result.png)
+![Prediction Report](screenshots/prediction-result.png.png)
 
 ---
 
 ## Doctor Dashboard
 
-![Doctor Dashboard](screenshots/doctor-dashboard.png)
+![Doctor Dashboard](screenshots/doctor-dashboard.png.png)
 
 ---
 
 ## Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin-dashboard.png.png)
 
 ---
 
 ## Model Training
 
-![Model Training](screenshots/model-training.png)
+![Model Training](screenshots/model-training.png.png)
 
 ---
 
 ## Model Performance
 
-![Model Result](screenshots/model-result.png)
+![Model Result](screenshots/model-result.png.png)
 
 ---
 
